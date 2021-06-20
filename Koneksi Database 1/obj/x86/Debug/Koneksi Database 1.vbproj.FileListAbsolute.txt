@@ -1,0 +1,15 @@
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\bin\Debug\Koneksi Database 1.exe
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\bin\Debug\Koneksi Database 1.pdb
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\bin\Debug\Koneksi Database 1.xml
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.DataJenis.resources
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.Resources.resources
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi Database 1.vbproj.GenerateResource.Cache
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi Database 1.exe
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi Database 1.xml
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi Database 1.pdb
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.Data_Buku.resources
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\bin\Debug\JualBuku.accdb
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.FMenu.resources
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.Login.resources
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\bin\Debug\Koneksi Database 1.exe.config
+D:\kuliah\vb.net\Koneksi Database 1\Koneksi Database 1\obj\x86\Debug\Koneksi_Database_1.Buat_Akun.resources
